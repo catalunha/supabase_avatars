@@ -1,0 +1,6 @@
+# supabase_avatars
+
+A new Flutter project.
+url: https://zkdpdnrabwvdzglymlmv.supabase.co
+
+anon: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InprZHBkbnJhYnd2ZHpnbHltbG12Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTE0NDQ0NzQsImV4cCI6MjAwNzAyMDQ3NH0.ZR_mUC1-aYu7P957gp6niNJ57xq14jxKU6L-L45Wmx4
